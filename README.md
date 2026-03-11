@@ -6,6 +6,8 @@ A working end-to-end demo of A2UI (Agent-to-UI) showing how an AI agent can driv
 
 ## What This Demo Shows
 
+![A2UI DEMO](./img/agui-demo.gif)
+
 Traditional AI chat apps return markdown or plain text that the frontend displays verbatim. This demo inverts that: the **agent decides what UI to show**, and the frontend is a dumb renderer that executes those instructions.
 
 When you type "Search hotels in Paris", the agent responds with a JSON payload describing hotel cards, images, prices, and "Book Hotel" buttons. The frontend renders exactly those widgets — no hardcoded templates, no frontend routing logic.
