@@ -1,6 +1,6 @@
 # Travel Agent Demo — A2UI + Google ADK
 
-A working end-to-end demo of A2UI (Agent-to-UI) showing how an AI agent can drive a rich chat UI entirely through JSON Payload powered by A2UI, Google ADK and Gemini model. The agent never returns plain text — every response is a structured UI surface that the frontend renders dynamically.
+A working end-to-end demo of A2UI (Agent-to-UI) showing how an AI agent can drive a rich chat UI entirely through A2UI JSON Payload powered by A2UI, Google ADK and Gemini model. The agent never returns plain text — every response is a structured UI surface that the frontend renders dynamically.
 
 ![A2UI](./img/hero.png)
 
