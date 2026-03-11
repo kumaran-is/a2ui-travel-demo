@@ -83,8 +83,8 @@ Key files:
 
 ## Prerequisites
 
-- **Python 3.11+** with `pip` or a virtual environment
-- **Node.js 18+** and `npm`
+- **Python 3.14+** with `pip` or a virtual environment
+- **Node.js 24** and `npm`
 - **Google API key** with Gemini access — get one at [aistudio.google.com](https://aistudio.google.com)
 
 ---
