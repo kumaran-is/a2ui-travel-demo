@@ -12,15 +12,7 @@ When you type "Search hotels in Paris", the agent responds with a JSON payload d
 
 This pattern is called **Agent-to-UI (A2UI)**. It lets an AI agent control the entire user experience from the backend.
 
-```
-User types → Agent returns A2UI JSON → Frontend renders widgets
-                                             |
-                                      Hotel cards? Flight cards?
-                                      Booking form? Confirmation?
-                                      All decided by the agent.
-```
-
----
+![A2UI](./img/demo.png)
 
 ## Architecture
 
