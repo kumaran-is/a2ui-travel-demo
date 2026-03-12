@@ -1,5 +1,9 @@
 # Travel Agent Demo — A2UI + Google ADK
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/kumaran-is/a2ui-travel-demo)
+
+> 📖 Read the full write-up on Medium: [A2UI — Agents That Build Their Own UI](https://medium.com/@kumaran.isk/a2ui-agents-that-build-their-own-ui-5bddc3e22d6b)
+
 A working end-to-end demo of A2UI (Agent-to-UI) showing how an AI agent can drive a rich chat UI entirely through A2UI JSON Payload powered by A2UI, Google ADK and Gemini model. The agent never returns plain text — every response is a structured UI surface that the frontend renders dynamically.
 
 ![A2UI](./img/hero.png)
